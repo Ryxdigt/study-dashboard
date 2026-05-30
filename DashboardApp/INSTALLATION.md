@@ -2,7 +2,7 @@
 
 ## GitHub-Repository
 
-GitHub-Link: https://github.com/Ryxdigt/Study_Dashboard_IU
+GitHub-Link: (https://github.com/Ryxdigt/study-dashboard)
 
 ## Voraussetzungen
 
